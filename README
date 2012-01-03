@@ -1,0 +1,4 @@
+small lightweight f# module containing some "should_xxx" methods for bdd testing in .net platform
+being developed using the sort of "emerging testing" purer tdd allows
+
+in the future, plan to add Context classes, metaphors, etc...need some free time 
