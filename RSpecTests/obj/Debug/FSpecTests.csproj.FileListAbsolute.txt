@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\bin\Debug\RSpecTests.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\bin\Debug\RSpecTests.pdb
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\bin\Debug\FSpec.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\bin\Debug\FSpec.pdb
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\bin\Debug\FSpec.xml
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\obj\Debug\FSpecTests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\obj\Debug\RSpecTests.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\RSpecTests\obj\Debug\RSpecTests.pdb

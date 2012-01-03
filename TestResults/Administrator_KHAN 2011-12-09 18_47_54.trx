@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="67fb4e63-817c-4bd5-a608-ab1e00c61c04" name="Administrator@KHAN 2011-12-09 18:47:54" runUser="KHAN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3f9343ec-71cd-41eb-8775-df45134009b0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_KHAN 2011-12-09 18_47_54">
+      <DeploymentItem filename="c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSpec.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-09T18:47:54.6182704+05:00" queuing="2011-12-09T18:47:56.6567728+05:00" start="2011-12-09T18:47:56.9095792+05:00" finish="2011-12-09T18:48:11.0797792+05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="5" executed="5" passed="4" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KHAN" outcome="Error" timestamp="2011-12-09T18:48:11.0195872+05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Create_Description" storage="c:\users\administrator\documents\visual studio 11\projects\fspec\rspectests\bin\debug\rspectests.dll" id="469a65ef-14f5-0d10-f349-effc0fc87b4b">
+      <Execution id="48051834-b31f-4231-be7b-cbb4771b34d8" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 11/Projects/FSpec/RSpecTests/bin/Debug/RSpecTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RSpecTests.UnitTest1, RSpecTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Create_Description" />
+    </UnitTest>
+    <UnitTest name="Test_Call_Describe_Function" storage="c:\users\administrator\documents\visual studio 11\projects\fspec\rspectests\bin\debug\rspectests.dll" id="26c9aa54-b9e4-a381-68e4-c33eb62f1a3c">
+      <Execution id="dea3e44b-a835-45ae-8151-6f6716479806" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 11/Projects/FSpec/RSpecTests/bin/Debug/RSpecTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RSpecTests.UnitTest1, RSpecTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Call_Describe_Function" />
+    </UnitTest>
+    <UnitTest name="Test_Should_Equal" storage="c:\users\administrator\documents\visual studio 11\projects\fspec\rspectests\bin\debug\rspectests.dll" id="e88c4f6b-aafa-656f-6416-616440cabe1f">
+      <Execution id="e4f79800-c3a8-476e-a971-a2a6b7c30d95" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 11/Projects/FSpec/RSpecTests/bin/Debug/RSpecTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RSpecTests.ExtensionMethodTests, RSpecTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Should_Equal" />
+    </UnitTest>
+    <UnitTest name="Test_Should_Not_Equal" storage="c:\users\administrator\documents\visual studio 11\projects\fspec\rspectests\bin\debug\rspectests.dll" id="3e244c26-eb92-5d6d-523e-ad1fc998f638">
+      <Execution id="75767cd3-1dd5-4504-aa26-2006b367c866" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 11/Projects/FSpec/RSpecTests/bin/Debug/RSpecTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RSpecTests.ExtensionMethodTests, RSpecTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Should_Not_Equal" />
+    </UnitTest>
+    <UnitTest name="Test_Should_Be_Same_As" storage="c:\users\administrator\documents\visual studio 11\projects\fspec\rspectests\bin\debug\rspectests.dll" id="243cb67c-56f8-f429-da03-eef863a76d1d">
+      <Execution id="e645fe50-c263-4e93-897b-37d83cd968d2" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 11/Projects/FSpec/RSpecTests/bin/Debug/RSpecTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RSpecTests.ExtensionMethodTests, RSpecTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Should_Be_Same_As" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26c9aa54-b9e4-a381-68e4-c33eb62f1a3c" executionId="dea3e44b-a835-45ae-8151-6f6716479806" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="469a65ef-14f5-0d10-f349-effc0fc87b4b" executionId="48051834-b31f-4231-be7b-cbb4771b34d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e88c4f6b-aafa-656f-6416-616440cabe1f" executionId="e4f79800-c3a8-476e-a971-a2a6b7c30d95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3e244c26-eb92-5d6d-523e-ad1fc998f638" executionId="75767cd3-1dd5-4504-aa26-2006b367c866" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="243cb67c-56f8-f429-da03-eef863a76d1d" executionId="e645fe50-c263-4e93-897b-37d83cd968d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dea3e44b-a835-45ae-8151-6f6716479806" testId="26c9aa54-b9e4-a381-68e4-c33eb62f1a3c" testName="Test_Call_Describe_Function" computerName="KHAN" duration="00:00:00.0227243" startTime="2011-12-09T18:47:57.0098992+05:00" endTime="2011-12-09T18:47:57.4643488+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dea3e44b-a835-45ae-8151-6f6716479806">
+      <Output>
+        <StdOut>test message for describe</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="48051834-b31f-4231-be7b-cbb4771b34d8" testId="469a65ef-14f5-0d10-f349-effc0fc87b4b" testName="Test_Create_Description" computerName="KHAN" duration="00:00:00.0006970" startTime="2011-12-09T18:47:57.6288736+05:00" endTime="2011-12-09T18:47:57.6399088+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="48051834-b31f-4231-be7b-cbb4771b34d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="e4f79800-c3a8-476e-a971-a2a6b7c30d95" testId="e88c4f6b-aafa-656f-6416-616440cabe1f" testName="Test_Should_Equal" computerName="KHAN" duration="00:00:00.0006014" startTime="2011-12-09T18:47:57.6549568+05:00" endTime="2011-12-09T18:47:57.6639856+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e4f79800-c3a8-476e-a971-a2a6b7c30d95">
+    </UnitTestResult>
+    <UnitTestResult executionId="75767cd3-1dd5-4504-aa26-2006b367c866" testId="3e244c26-eb92-5d6d-523e-ad1fc998f638" testName="Test_Should_Not_Equal" computerName="KHAN" duration="00:00:00.0003894" startTime="2011-12-09T18:47:57.6770272+05:00" endTime="2011-12-09T18:47:57.6870592+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75767cd3-1dd5-4504-aa26-2006b367c866">
+    </UnitTestResult>
+    <UnitTestResult executionId="e645fe50-c263-4e93-897b-37d83cd968d2" testId="243cb67c-56f8-f429-da03-eef863a76d1d" testName="Test_Should_Be_Same_As" computerName="KHAN" duration="00:00:13.3786752" startTime="2011-12-09T18:47:57.7011040+05:00" endTime="2011-12-09T18:48:11.0797792+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e645fe50-c263-4e93-897b-37d83cd968d2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

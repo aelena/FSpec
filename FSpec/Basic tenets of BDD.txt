@@ -1,0 +1,6 @@
+﻿
+Instead of subclassing "Test" use a class "Context"
+Call methods with "Should" instead of "Test_Whatever"
+Instead of using "assert", use methods like "shouldBeEqual ( expected, actual )" and similar
+	(see shouldextensions.fs file )
+All of these methods must have a trailing message parameter that is optional

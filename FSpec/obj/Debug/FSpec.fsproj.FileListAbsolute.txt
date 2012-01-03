@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSpec.XML
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSpec.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSpec.pdb
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSharp.Core.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\FSharp.Core.xml
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\bin\Debug\en\FSharp.Core.resources.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\obj\Debug\FSpec.fsprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\obj\Debug\FSpec.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpec\obj\Debug\FSpec.pdb

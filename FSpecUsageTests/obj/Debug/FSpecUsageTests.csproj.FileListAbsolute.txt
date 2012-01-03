@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\obj\Debug\FSpecUsageTests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpecUsageTests.exe.config
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpecUsageTests.exe
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpecUsageTests.pdb
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpec.dll
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpec.pdb
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\bin\Debug\FSpec.xml
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\obj\Debug\FSpecUsageTests.exe
+c:\users\administrator\documents\visual studio 11\Projects\FSpec\FSpecUsageTests\obj\Debug\FSpecUsageTests.pdb
